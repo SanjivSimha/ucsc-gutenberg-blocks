@@ -102,6 +102,5 @@ span.secret {
 
 .collapseExpandText {
     color: var(--wp--preset--color--ucsc-primary-blue);
-    text-decoration: underline;
     cursor: pointer;
 }
